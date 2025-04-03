@@ -1,0 +1,3 @@
+mcp
+httpx>=0.24.0
+python-dotenv
